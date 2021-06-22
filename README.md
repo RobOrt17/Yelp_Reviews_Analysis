@@ -2,6 +2,14 @@
 
 Collaborators: Darcy Mack, Mallory Blake, Samantha Sitarek
 
+##ANSWERS WE PROVIDED:
+3.a. Art and dentist complaints
+3.b. The business with the highest 5 star is The Cowfish Sushi Burger Bar. Most 1 star came from American Airlines.  Highest number of total reviews?: Charlotte Douglas Int. Airport
+3.c. There are a total of 1,562 businesses closed, with an average rating of 3.4875 Stars. 0.2143 difference between businesses that are open and closed.
+3.d.  The 1 star reviews tend to go up every year. The most common rating is 5 stars over the years, at 40%.
+3.e.  Thuy T has the longest review length on average, at 794.64 words per review. The criteria needed to be equal to or greater than 25. I found that the higher the stars, the shorter                         the review. I looked at reviewers with =>25 reviews, and looked at all reviews. Both showed poor service gets more words. 
+3.f.  I chose Fox. Fox had an average star rating of 4.09375, and had 89,418 useful reviews. I also stipulated more than 25 reviews when filtering. Fox has been Yelping since 5/26/2009.
+
 ### Exploration and Analysis of Yelp reviews of businesses in Charlotte, NC.  
 
 #### Power Pivot
